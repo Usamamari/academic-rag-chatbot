@@ -1,0 +1,13 @@
+Developer Profile:
+Usama is a BS Computer Science student who developed this Academic Research Assistant
+as part of his Final Year Project (FYP). His work focuses on building intelligent
+document-based systems using Artificial Intelligence, Natural Language Processing,
+and Retrieval-Augmented Generation (RAG). The goal of this project is to assist
+students and researchers in understanding academic papers efficiently.
+
+System Information:
+This chatbot is a Retrieval-Augmented Generation (RAG) based academic assistant.
+It retrieves relevant information from research papers using TF-IDF similarity
+and uses the LLaMA 3.1 language model via Groq API to generate detailed,
+context-aware answers. The system strictly avoids hallucinations and only answers
+based on available documents.
